@@ -25,3 +25,8 @@ textarea {
     background-color: #222;
     color: #FFF !important;
 }
+
+.comment.highlighted {
+    background-color: #333 !important;
+    color: rgb(220, 220, 220) !important;
+}
