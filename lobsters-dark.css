@@ -30,3 +30,40 @@ textarea {
     background-color: #333 !important;
     color: rgb(220, 220, 220) !important;
 }
+
+ol.stories.list li.story div.details span.link a:link {
+	color: #6898ff;
+}
+
+ol.stories.list li.story div.details span.link a:visited {
+	color: #2858bf;
+}
+
+a {
+    color: #6898ff;
+}
+
+a.tag {
+	background-color: #000;
+	border: 1px solid #ccc;
+	color: #ccc;
+}
+
+body {
+    background: #000;
+    color: #ccc;
+}
+
+textarea {
+    background-color: #222;
+    color: #FFF !important;
+}
+
+.comment.highlighted {
+    background-color: #333 !important;
+    color: rgb(220, 220, 220) !important;
+}
+
+.box .legend {
+    background-color: #000;
+}
